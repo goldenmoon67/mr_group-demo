@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509380439064",
+    "project_id": "deeplink-demo-for-mr-group",
+    "storage_bucket": "deeplink-demo-for-mr-group.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509380439064:android:0253ff74faa37aef69276d",
+        "android_client_info": {
+          "package_name": "com.deeplinkDemo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEd59B8Q19V5b7MDbWMoJU6YPah5mPW-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509380439064:android:b3d8a312d27aca6769276d",
+        "android_client_info": {
+          "package_name": "com.example.deeplink_project_for_mr_group"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEd59B8Q19V5b7MDbWMoJU6YPah5mPW-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
