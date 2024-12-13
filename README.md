@@ -96,6 +96,19 @@ BASE_URL_IOS=http://{Your-IP-Address}:5000/api
    ```bash
    flutter pub get
    ```
+3. Emulator Başlatın:
+Flutter projelerinde emülatörleri komut satırından başlatmak için aşağıdaki adımları izleyebilirsiniz.
+
+A.Tüm Mevcut Emülatörleri Listeleme
+
+   ```bash
+  flutter emulators
+   ```
+B.Bir Emülatörü Başlatma
+  ```bash
+flutter emulators --launch <emulator_id>
+   ```
+   Komut çalıştırıldığında cihazınızı veya emülatörünüzü seçin.
 
 3. Uygulamayı başlatın:
    ```bash
