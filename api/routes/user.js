@@ -29,7 +29,7 @@ router.post('/use-coupon', auth, async (req, res) => {
         if (!user) {
             return res.status(404).json({ success: false, message: "User not found." });
         }
-        const coupon = user.coupons.find(c => c.code === couponCode);
+        const coupon = user.coupons.find(c => c.code === couponCode&&c.isUsed === false);
         if (!coupon) {
             return res.status(404).json({ success: false, message: "Coupon not found." });
         }
