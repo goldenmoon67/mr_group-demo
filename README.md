@@ -1,4 +1,4 @@
-# Full-Stack Proje: Express (API) & Flutter (Mobil)
+# Deeplink Demo: Express (API) & Flutter (Mobil)
 
 Bu proje, backend için **Express.js** ve mobil frontend için **Flutter** kullanılarak geliştirilmiş bir full-stack uygulamadır. Aşağıdaki adımları takip ederek projeyi kurabilir ve çalıştırabilirsiniz.
 
@@ -202,7 +202,3 @@ Test sürecinde herhangi bir sorun yaşarsanız, uygulamanın loglarını kontro
 
 ---
 
-![Webm Video](https://drive.google.com/file/d/1YnjY-89LUkCn7kXW8gbrjWf6C7pHJHCh/view?usp=drive_link)
-
-
-[Video İzlemek İçin Tıklayın](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
