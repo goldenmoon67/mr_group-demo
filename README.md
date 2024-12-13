@@ -124,7 +124,7 @@ Bu bölümde uygulamanın işlevlerinin nasıl test edileceği adım adım anlat
 ---
 Aşağıdaki linkte deeplink kullanımının test edildiği senaryoda bir video görebilirsiniz
  ```bash
-   https://drive.google.com/file/d/1YnjY-89LUkCn7kXW8gbrjWf6C7pHJHCh/view?usp=drive_link
+   https://drive.google.com/file/d/1rqQv1jrefmW9I4jRU_RXVYURCT33Xlog/view?usp=sharing
    ```
 
 ## Test İşlemleri
