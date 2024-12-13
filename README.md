@@ -162,7 +162,7 @@ https://miracaltinay.com/deeplink?referralId={your-referral-id}
 3. Yeni bir kullanıcı, bu referral linki ile kayıt olmak için linke tıklar uygulamayı açar. Debug ortamında çalıştığımız için emulatorler de linki sağlamadığı için 
 - Android cihazda şu komut kullanılır:
   ```bash
-  adb shell am start -a android.intent.action.VIEW -d "https://miracaltinay.com/deeplink?referralId={your-referral-id}"
+  adb shell am start -a android.intent.action.VIEW -d "https://www.miracaltinay.com/deeplink?referralId={your-referral-id}"
   ```
 - Bu komut çalıştırıldığında uygulama açılır ve kayıt ekranı görüntülenir.
 
