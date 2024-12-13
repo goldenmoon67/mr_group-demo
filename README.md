@@ -133,7 +133,7 @@ Aşağıdaki linkte deeplink kullanımının test edildiği senaryoda bir video 
 1. Uygulama açıldığında **Login** ve **Register** ekranlarını göreceksiniz.
 2. Test için kullanılabilecek bir kullanıcı hesabı:
    - **E-posta:** testuser@example.com
-   - **Şifre:** test123
+   - **Şifre:** 123456
 
 3. Eğer giriş yapmak yerine yeni bir kullanıcı kaydı oluşturmak isterseniz, "Register" ekranından yeni bir hesap oluşturabilirsiniz.
 
